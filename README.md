@@ -51,6 +51,8 @@ src/
 │   │   │   ├── SmartHomeSystem.java
 │   └── resources/
 │       ├── config.properties
+
+
 Contact Email:
 din456mar@gmail.com
 GitHub:Dinesh23Kumar
